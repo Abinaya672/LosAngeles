@@ -301,7 +301,7 @@ html {
   .footer {
     height: 8rem;
     width: 100%;
-    position: relative;
+    position: absolute;
     bottom: 0;
     background-color: #414f6b;
     display: flex;
